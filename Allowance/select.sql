@@ -1,0 +1,1 @@
+select * from Allowance where Id=1;

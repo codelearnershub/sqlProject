@@ -1,0 +1,1 @@
+delete from Salary where id=1;

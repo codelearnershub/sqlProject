@@ -1,0 +1,1 @@
+select * from Deduction where id=1;

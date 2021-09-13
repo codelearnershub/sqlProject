@@ -1,0 +1,1 @@
+delete from SalaryAllowance where id=1;

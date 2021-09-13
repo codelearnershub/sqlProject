@@ -1,0 +1,1 @@
+insert SalaryDeduction(SalaryId,DeductionId) values (1,1);

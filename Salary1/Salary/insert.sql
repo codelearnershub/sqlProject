@@ -1,0 +1,1 @@
+insert Salary(Tax,GrossPay,NEtPay,BasicPay,EmployeeId) values (2000,100099,5499,28393,1);

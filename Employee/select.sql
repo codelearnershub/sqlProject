@@ -1,0 +1,1 @@
+SELECT Employee.FirstName,Employee.LastName,Employee.Email,Employee.Password,Department.Name,Employee.DateJoined from Employee inner join Department on Employee.DepartmentId = Department.Id where Employee.Id=1;

@@ -1,0 +1,1 @@
+insert SalaryAllowance(SalaryId,AllowanceId) values (1,1);
