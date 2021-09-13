@@ -1,0 +1,2 @@
+DELETE FROM Salaries
+WHERE Id = 3;
