@@ -1,0 +1,1 @@
+DELETE FROM SalaryAll WHERE ID= 1;

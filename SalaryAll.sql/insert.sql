@@ -1,0 +1,2 @@
+INSERT INTO SalaryAll
+VALUES (1,1,2);

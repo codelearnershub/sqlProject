@@ -1,0 +1,1 @@
+DELETE FROM Allowance WHERE ID= 1;

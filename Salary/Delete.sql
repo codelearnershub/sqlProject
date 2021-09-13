@@ -1,0 +1,1 @@
+DELETE FROM Deduction WHERE ID= 1;

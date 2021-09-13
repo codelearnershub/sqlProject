@@ -1,0 +1,1 @@
+SELECT ID, Name, Details FROM Allowance;

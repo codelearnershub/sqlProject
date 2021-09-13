@@ -1,0 +1,1 @@
+SELECT ID, Amount, Details FROM Deduction;

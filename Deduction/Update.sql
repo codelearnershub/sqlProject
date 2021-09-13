@@ -1,0 +1,3 @@
+UPDATE Deduction
+SET ID = 2, Details = "A young Successful Man", ...
+WHERE ID = 1;
